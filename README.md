@@ -2,7 +2,7 @@
 This repository is created for sharing the results, and techniques of my analysis for esports success association with internet infrastructure. 
 
 ## Data
-This project merges covers internet data between 2019-2024
+This project covers internet data between 2019-2024
 
 - Country
 - Latency
