@@ -2,14 +2,9 @@
 This repository is created for sharing the results, and techniques of my analysis for esports success association with internet infrastructure. 
 
 ## Data
-This project merges 4 different internet data
+This project merges covers internet data between 2019-2024
 
 - Country
-- Country Code
-- Date
-- rFactor
-- Jitter
-- Packet Loss
 - Latency
 - Download Speed
 - Upload Speed
