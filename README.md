@@ -11,4 +11,6 @@ Data is collected from Ookla's Open Source Data, and aggregated for each country
 - Download Speed
 - Upload Speed
 
+Notes:
+Used only Q3 internet data since for my purposes, it was sufficent, if you need another data do not use this !!
 ##
