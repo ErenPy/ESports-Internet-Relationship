@@ -1,5 +1,5 @@
 # ESports-Internet-Relationship
-This repository is created for sharing the results, and techniques of my analysis for esports success association with internet infrastructure. 
+This repository is created for sharing the results, data and techniques of my analysis for esports success association with internet infrastructure. 
 
 ## Data
 This project covers internet data between 2019-2024 
